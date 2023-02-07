@@ -1,0 +1,178 @@
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmSplash.resources
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.pdb
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\BouncyCastle.Crypto.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Google.Protobuf.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\K4os.Compression.LZ4.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\K4os.Hash.xxHash.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Bcl.HashCode.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Logging.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Options.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Primitives.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\MySql.Data.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\MySqlConnector.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Renci.SshNet.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Buffers.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Collections.Immutable.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.ComponentModel.Annotations.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Memory.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Ubiety.Dns.Core.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Zstandard.Net.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Google.Protobuf.pdb
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Google.Protobuf.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\K4os.Compression.LZ4.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\K4os.Hash.xxHash.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Bcl.HashCode.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Logging.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Options.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Primitives.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\MySql.Data.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\MySqlConnector.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Renci.SshNet.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Buffers.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Collections.Immutable.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Memory.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.exe
+T:\Cursos Tecnicos\9900212653_TI104_T310123\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Google.Protobuf.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\MySql.Data.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\MySqlConnector.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Renci.SshNet.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Buffers.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Collections.Immutable.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Memory.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Zstandard.Net.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Google.Protobuf.pdb
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Google.Protobuf.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\MySql.Data.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\MySqlConnector.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\Renci.SshNet.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Buffers.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Collections.Immutable.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Memory.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\erik.osantos\Desktop\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.pdb
